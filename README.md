@@ -1,17 +1,9 @@
 <h1 align="center">EventGround: Narrative Reasoning by Grounding to Eventuality-centric Knowledge Graphs</h1>
-<p align="center">
-    <a href="https://arxiv.org/abs/2404.00209"><img src="https://img.shields.io/badge/arXiv-2404.00209-b31b1b.svg" alt="Paper"></a>
-    <a href="https://github.com/LFhase/PAIR"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
-    <!-- <a href="https://colab.research.google.com/drive/1t0_4BxEJ0XncyYvn_VyEQhxwNMvtSUNx?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab"></a> -->
-    <a href=""> <img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=LREC-COLING%2724&color=blue"> </a>
-    <!-- <a href="https://github.com/LFhase/PAIR/blob/main/LICENSE"> <img alt="License" src="https://img.shields.io/github/license/LFhase/PAIR?color=blue"> </a> -->
-    <!-- <a href="https://neurips.cc/virtual/2022/poster/54643"> <img src="https://img.shields.io/badge/Video-grey?logo=Kuaishou&logoColor=white" alt="Video"></a> -->
-    <!-- <a href="https://lfhase.win/files/slides/PAIR.pdf"> <img src="https://img.shields.io/badge/Slides-grey?&logo=MicrosoftPowerPoint&logoColor=white" alt="Slides"></a> -->
-    <!-- <a href="https://icml.cc/media/PosterPDFs/ICML%202022/a8acc28734d4fe90ea24353d901ae678.png"> <img src="https://img.shields.io/badge/Poster-grey?logo=airplayvideo&logoColor=white" alt="Poster"></a> -->
-</p>
 
 
-This repo contains the sample code for reproducing the results of our LREC-COLING'24 paper: *[EventGround: Narrative Reasoning by Grounding to Eventuality-centric Knowledge Graphs](https://arxiv.org/abs/2404.00209)*.
+
+This repo copy of : https://github.com/HKUST-KnowComp/EventGround
+
 
 ## Requirements
 
