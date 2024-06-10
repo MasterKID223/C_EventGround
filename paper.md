@@ -16,6 +16,24 @@
 
 关键词：知识基础(Grounding)、事件为中心的知识图谱、推理
 
+### 11
+
+时间、事件之间的相互联系。
+
+时间 + 事件。
+
+事件链的链事件更丰富 + chain of thought。
+
+编队里确定中心，输出展示。
+
+数据接口。
+
+体系计算时怎么从redis中/restful接口中接收大量数据，怎么快速接收保存。（直接传对象、对象序列化再传、接送字符串）
+
+定义好其他系统的数据接口。
+
+并行计算。
+
 ### 实验结果
 
 数据格式：https://github.com/HKUST-KnowComp/EventGround/blob/main/dataset/StoryClozeTest/raw/val_winter2018.csv
@@ -30,7 +48,7 @@
 
 ### introudction
 
-![image-20240605185408323](./paper.assets/image-20240605185408323.png)
+<img src="./paper.assets/image-20240605185408323.png" alt="image-20240605185408323" style="zoom: 33%;" />
 
 叙事推理（Narrative reasoning），例如预测故事结局和脚本推理。叙事推理依赖于对事件的理解。
 
